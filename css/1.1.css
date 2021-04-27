@@ -1,0 +1,49 @@
+#info{
+	position: relative;
+	margin-top: 72px;
+}
+#info p{
+	text-align: left;
+	line-height:35px;
+	font-size: 22px;
+	padding: 50px;
+	width: 70%;
+	margin: auto;
+	background-color: #F9F7F8;
+}
+/*.subshow{
+	margin-bottom: 60px;
+}*/
+.fengtuimg,.dscrip{
+	display: inline-block;
+	vertical-align: top;
+}
+.fengtuimg{
+	width: 250px;
+	height: 200px;
+	margin-left: 12%;
+	border: 3px solid #ddd;
+	padding: 20px;
+}
+.st{
+	padding: 0;
+	margin: 0;
+	font-size: 21px;
+}
+.dscrip{
+	padding: 0;
+	margin: 0;
+	padding-left: 30px;
+	line-height: 30px;
+	width: 55%;
+}
+.hr{
+	padding: 0;
+	margin: 0;
+	border:none;
+	border-top: 1px solid #ddd;
+	width: 80%;
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}

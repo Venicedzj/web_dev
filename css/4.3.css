@@ -1,0 +1,29 @@
+.Title{
+	font-size: 25px;
+	font-weight: bold;
+	padding-left: 13%;
+	color: #2F373A;
+}
+.Img{
+	width: 500px;
+	height: 300px;
+	margin-left: 13%;
+	padding: 10px;
+	border: 2px solid #ddd;
+	border-radius: 3px;
+}
+.Text{
+	width: 70%;
+	font-size: 18px;
+	line-height: 30px;
+	text-align: left;
+	padding-left: 13%;
+}
+.hr{
+	padding: 0;
+	margin: 0;
+	border:none;
+	border-top: 1px solid #ddd;
+	width: 80%;
+	margin: 70px auto;
+}

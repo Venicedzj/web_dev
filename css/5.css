@@ -1,0 +1,45 @@
+#txArea,#add{
+	display: inline-block;
+}
+#add{
+	width: 38px;
+	height: 38px;
+	padding-left: 10px;
+}
+#txArea{
+	padding: 0;
+	border: 1px solid #C8BABA;
+	resize: none;
+	width: 600px;
+	height: 40px;
+	font-size: 16px;
+	overflow-x: hidden;
+	border-radius: 4px;
+}
+#sending{
+	text-align: center;
+}
+#btnarea{
+	margin-top: 20px;
+	margin-left: 26%
+}
+.btn{
+	padding-left: 2%;
+	vertical-align:top;
+}
+#del{
+	margin-top: -5px;
+}
+#ul{
+	list-style: none;
+	padding-left: 27.5%;
+}
+.liclass{
+	margin-top: 10px;
+	padding-top: 10px;
+	font-size: 22px;
+	width: 600px;
+	height: 40px;
+	background-color: #ddd;
+	border-radius: 4px;
+}
